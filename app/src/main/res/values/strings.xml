@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="show_alert">Show Alert</string>
+    <string name="show_customdialog">Show CustomDialog</string>
+    <string name="ini_adalah_contoh_custom_dialog">ini adalah contoh custom dialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="intent_explicit">Intent Explicit</string>
+    <string name="widget">Widget</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_file">Open File</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
